@@ -1,2 +1,2 @@
 # pageinstagran
-abordado o conceito sobre CSS Flexbox e responsividade, criando a pagina de login do instagram
+Objetivo do projeto é abordar os conceitos sobre css flexbox e responsividade, atraves do layout da página de login do instagram.
